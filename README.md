@@ -12,5 +12,5 @@ Este proyecto implementa una página de inicio de sesión con validación de con
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/AimedCh/login](https://github.com/AimedCh/PaginaDeAcceso
+   git clone https://github.com/AimedCh/PaginaDeAcceso
 
